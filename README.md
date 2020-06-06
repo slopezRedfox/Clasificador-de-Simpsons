@@ -19,6 +19,6 @@ Los objetivo de este proyecto son:
 ## Data
 Originalmente se usó los datos etiquetados por el ingeniero Alexandre Attia y colaboradores, el cual se puede accesar y descargar del link: https://www.kaggle.com/alexattia/the-simpsons-characters-dataset
 
-Pero para el trabajo directo con el Jupyter Notbook, se sugiere usar directamente el set de datos del siguiente link: https://drive.google.com/file/d/1otTjIhXofAt_KRWHxC9uq28yCK-gssSZ/view?usp=sharing
+Pero para el trabajo directo con el Jupyter Notbook, se sugiere usar directamente el set de datos del siguiente link: https://drive.google.com/file/d/1SKJ38nn0ao2xptORXpUkklYv4U-rm_TD/view?usp=sharing
 
 
