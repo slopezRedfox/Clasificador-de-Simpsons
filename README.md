@@ -9,7 +9,9 @@ Github: https://github.com/alexattia/SimpsonRecognition
 ## Objetivo
 Los objetivo de este proyecto son:
 
-1. Dar una introduccion al uso de keras y tensorflow además de explicar línea por línea todo el proceso, con el fin de poder usar una aproximación similar en otras circunstancias.
+1. Dar una introducción a funciones basicas para el uso de keras y tensorflow.
+
+2. Explicar, línea por línea, todo el proceso de entrenamiento y validación de una red neuronal convolucional.
 
 2. Dar una guía para trabajar en clasificación de imagnes haciendo uso de Google Colab.
 
