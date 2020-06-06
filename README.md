@@ -1,4 +1,4 @@
-<p style='text-align: center;'> # Simpsons Classification </p>
+# Simpsons Classification 
 
 ## Crédito
 Este proyecto está basado en otro proyecto realizado por el ingeniero **Alexandre Attia**. Primeramente se le agredece el haber iniciado con este excelente proyecto y se deja para mayor información acceso directo al reporte del proyecto original, asi como el github del mismo:
