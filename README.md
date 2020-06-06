@@ -17,8 +17,8 @@ Los objetivo de este proyecto son:
 * Dar una guía para trabajar en clasificación de imagnes haciendo uso de Google Colab.
 
 ## Data
-Originalmente se hará uso de los datos etiquetados por el ingeniero Alexandre Attia y colaboradores, el cual se puede accesar y descargar del link: https://www.kaggle.com/alexattia/the-simpsons-characters-dataset
+Originalmente se usó los datos etiquetados por el ingeniero Alexandre Attia y colaboradores, el cual se puede accesar y descargar del link: https://www.kaggle.com/alexattia/the-simpsons-characters-dataset
 
-Pero más adelante se estara dando otras opciones de base de datos modificadas si se logra ver una posible mejora al ya establecido.
+Pero para el trabajo directo con el Jupyter Notbook, se sugiere usar directamente el set de datos del siguiente link: https://drive.google.com/file/d/1otTjIhXofAt_KRWHxC9uq28yCK-gssSZ/view?usp=sharing
 
 
