@@ -22,6 +22,6 @@ Originalmente se usó los datos etiquetados por el ingeniero Alexandre Attia y c
 Pero para el trabajo directo con el Jupyter Notbook, se sugiere usar directamente el set de datos del siguiente link: https://drive.google.com/file/d/1SKJ38nn0ao2xptORXpUkklYv4U-rm_TD/view?usp=sharing
 
 
-![logo](https://github.com/slopezRedfox/Simpsons_Classification/tree/master/README_IMAGES/logo.jpg)
+![Logo](https://github.com/slopezRedfox/Simpsons_Classification/blob/master/README_IMAGES/logo.jpg)
 
 
