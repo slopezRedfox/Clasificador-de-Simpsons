@@ -22,3 +22,6 @@ Originalmente se usó los datos etiquetados por el ingeniero Alexandre Attia y c
 Pero para el trabajo directo con el Jupyter Notbook, se sugiere usar directamente el set de datos del siguiente link: https://drive.google.com/file/d/1SKJ38nn0ao2xptORXpUkklYv4U-rm_TD/view?usp=sharing
 
 
+![Lisa picture](https://github.com/alexattia/SimpsonRecognition/blob/master/pics/mapple_lisa.png)
+
+
