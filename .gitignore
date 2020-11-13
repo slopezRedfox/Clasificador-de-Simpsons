@@ -1,0 +1,17 @@
+#Jupyter
+.ipynb_checkpoints/**/*
+
+#Images
+characters/**/*
+characters/*
+Images_Simpsons/**/*
+Images_Simpsons.zip
+
+#Weigths
+best_weights.hdf5
+
+#Results
+dataset.h5
+labels.h5
+New.h5
+history.csv
