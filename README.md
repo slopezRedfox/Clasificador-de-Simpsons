@@ -1,4 +1,4 @@
-![Logo](https://github.com/slopezRedfox/Simpsons_Classification/blob/master/README_IMAGES/logo.jpg)
+![Logo](src="/README_IMAGES/logo.jpg")
 
 # Simpsons Classification 
 
