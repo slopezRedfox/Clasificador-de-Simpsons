@@ -1,8 +1,9 @@
 <div style="text-align:center">
     <img src="./README_IMAGES/logo.jpg"  />
 </div>
+<br>
 
-# Simpsons Classification
+# Clasificador utilizando Keras y Tensorflow
 
 ## Crédito
 
