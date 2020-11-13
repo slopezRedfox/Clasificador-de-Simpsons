@@ -8,9 +8,9 @@
 
 Este proyecto está basado en otro proyecto realizado por el ingeniero **Alexandre Attia**. Primeramente se le agredece el haber iniciado con este excelente proyecto y se deja para mayor información acceso directo al reporte del proyecto original, asi como el github del mismo:
 
-Reporte: https://medium.com/alex-attia-blog/the-simpsons-character-recognition-using-keras-d8e1796eae36
+Reporte: <a href="https://medium.com/alex-attia-blog/the-simpsons-character-recognition-using-keras-d8e1796eae36"> https://medium.com/alex-attia-blog/the-simpsons-character-recognition-using-keras-d8e1796eae36</a>
 
-Github: https://github.com/alexattia/SimpsonRecognition
+Github: <a href="https://github.com/alexattia/SimpsonRecognition"> https://github.com/alexattia/SimpsonRecognition </a>
 
 ## Objetivo
 
