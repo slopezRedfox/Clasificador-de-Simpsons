@@ -9,6 +9,7 @@ Images_Simpsons.zip
 
 #Weigths
 best_weights.hdf5
+last_weights.hdf5
 
 #Results
 dataset.h5
